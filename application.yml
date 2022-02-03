@@ -1,3 +1,12 @@
-my:
-  config:
-    value: 10
+microservice:
+  int-value: 10
+  bool-value: false
+  url-value: https://an/uri
+  dictionnary:
+    key1: 1
+    key2: 2
+    key3: 3
+  complex-type-value:
+    property-a: 1
+    property-b: true
+    property-c: text
