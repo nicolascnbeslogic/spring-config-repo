@@ -1,12 +1,12 @@
 microservice:
-  IntValue: 42
+  IntValue: 44
   BoolValue: true
   UrlValue: https://an/uri
   Dictionnary:
     key1: 5
-    key2: 4
-    key3: 3
+    key2: 5
+    key3: 6
   ComplexTypeValue:
-    PropertyA: 2
-    PropertyB: false
-    PropertyC: text-text
+    PropertyA: 4
+    PropertyB: true
+    PropertyC: a value to send
