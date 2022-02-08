@@ -12,7 +12,7 @@ microservice-a:
     PropertyC: a value to send
 
 microservice-b:
-  IntValue: 99
+  IntValue: 100
   BoolValue: false
   UrlValue: https://another/uri
   Dictionnary:
