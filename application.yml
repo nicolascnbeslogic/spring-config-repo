@@ -1,5 +1,5 @@
 microservice-a:
-  IntValue: 44
+  IntValue: 88
   BoolValue: true
   UrlValue: https://an/uri
   Dictionnary:
